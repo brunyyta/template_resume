@@ -1,0 +1,139 @@
+.header{
+    display: grid;
+    grid-template-columns: 2fr 5fr;
+    background: black;
+    color: white;
+      
+}
+
+.container{
+    margin-bottom: 50px;
+}
+#ent{
+    margin-top:0px;
+}
+
+#experience{
+    margin-top: 40px;
+    margin-right: 20px;
+    display: grid;
+    grid-template-columns: 1fr 2fr 4fr;
+}
+
+p{
+    text-align: justify;
+}
+
+svg{
+    height: 1em;
+    margin-left: 40px;
+}
+
+p{
+    text-align: justify;
+}
+
+#head{
+    font-weight: bold;
+}
+
+
+#image{
+    height: 180px;
+    width: 180px;
+    margin: 20px;
+}
+
+#name{
+    letter-spacing: 0.2em;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+#web{
+    letter-spacing: 0.2em;
+    margin-top: 30px;
+}
+
+#underline{
+    width: 400px;
+    height: 2px;
+    background: #cceedd;
+    margin-top: 10px;
+}
+
+.exp{
+    background: #CDCDCF;
+    padding: 10px;
+}
+
+.skills_wrap{
+    display: grid;
+    grid-template-columns: 0.5fr 0.5fr;
+}
+
+#wrapper{
+    padding: 0px;
+    margin-top: 50px;
+}
+
+.icon{
+    margin-left: 10px;
+}
+
+.contact{
+    margin-top: 20px;
+}
+
+.row{
+    margin-bottom: 20px;
+}
+
+.progress-bar{
+    background: #CDCDCF;
+    height: 10px;
+    width: 100px;
+    margin-top: 12px;
+    margin-left: 10px;
+}
+
+#progress_UI{
+    background: black;
+    height: 10px;
+    width: 80px;
+}
+
+#progress_Photoshop{
+    background: black;
+    height: 10px;
+    width: 90px;
+}
+
+#progress_Illustrator{
+    background: black;
+    height: 10px;
+    width: 90px;
+}
+
+#progress_HTML{
+    background: black;
+    height: 10px;
+    width: 100px;
+}
+
+#progress_CSS{
+    background: black;
+    height: 10px;
+    width: 70px;
+}
+
+#progress_JS{
+    background: black;
+    height: 10px;
+    width: 40px;
+}
+
+.skills{
+    display: grid;
+    grid-template-columns: 0.3fr 0.3fr;
+}
